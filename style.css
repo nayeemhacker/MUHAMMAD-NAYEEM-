@@ -1,0 +1,22 @@
+
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background-color: #121212;
+    color: #eee;
+}
+header, section, footer {
+    padding: 20px;
+    text-align: center;
+}
+.hero img {
+    width: 150px;
+    border-radius: 50%;
+}
+h1, h2 {
+    color: #00ffcc;
+}
+a {
+    color: #00ffcc;
+    text-decoration: none;
+}
